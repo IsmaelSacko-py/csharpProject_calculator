@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "97BY//7swv1F7ieGb1wOZSpXv/57RxsZN3tjKJHYOc70vMfSnUOhc2w9YuSFztUWxOcal54JBlpG9kh63Pn5IA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Core\\Documents\\COURS DE PYTHON\\Mes Projets 2.0\\csharpProject_calculator\\csharpProject_calculator\\csharpProject_calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Core\\.nuget\\packages\\mathparser.org-mxparser\\5.2.1\\mathparser.org-mxparser.5.2.1.nupkg.sha512",
+    "C:\\Users\\Core\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Core\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Core\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Core\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
